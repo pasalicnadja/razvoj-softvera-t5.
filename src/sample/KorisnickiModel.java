@@ -37,6 +37,6 @@ public class KorisnickiModel {
         korisnik.add(new Korisnik( "Vedran" , "Ljubovic" , " vljubovic1@etf.unsa.ba" , "vljubovic1", "password"));
         korisnik.add(new Korisnik( "Tarik" , "Sijarcic" , " tsijarcic1@etf.unsa.ba" , "tsijarcic", "passw"));
         korisnik.add(new Korisnik( "Nadja" , "Pasalic" , " npasalic1@etf.unsa.ba" , "npasalic", "pw)"));
-        korisnik.add(new Korisnik());
+       // korisnik.add(new Korisnik());
     }
 }
